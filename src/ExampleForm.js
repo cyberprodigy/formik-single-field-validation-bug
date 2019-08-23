@@ -37,6 +37,7 @@ export default function ExampleForm(props) {
               Email
             </label>
             <input
+              name="email"
               id="email"
               placeholder="Enter your email"
               type="text"
