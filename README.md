@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# This repository showcases bug with Formik for single field validation
 
 ## Available Scripts
 
